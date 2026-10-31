@@ -1,5 +1,7 @@
 # Système de contrôle d'une salle informatique via LAN — Cisco Packet Tracer
 
+![Contrôler une salle informatique depuis un seul poste](docs/couverture.png)
+
 > **EN** — Student project simulated in Cisco Packet Tracer: a star-topology LAN (1 server, 1 Cisco 2960 switch, 5 client PCs) with static IPv4 addressing, TCP/IP connectivity tests, and an HTML administration dashboard hosted on the server's HTTP service to view the state of the PCs and send commands to them.
 
 Projet réalisé en binôme dans le cadre de la licence **Ingénierie des réseaux et systèmes** à l'Université Centrale (Tunis), année 2025-2026.
